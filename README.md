@@ -1,30 +1,28 @@
-<div align="center">
-  <h1>Tuskiand</h1>
-  <p>做能落地的工具、系统和信息化项目。</p>
-</div>
+<p align="center">
+  <img src="./banner.svg" alt="Tuskiand banner" />
+</p>
 
 ## About Me
 
-- 🛠 Focus on web apps, tools, and automation
-- 🧩 Care about clear structure and long-term maintainability
-- 🏥 Interested in healthcare information systems
-- 📝 Prefer simple pages that still say something useful
+- 🛠 I build practical tools, systems, and clean interfaces.
+- 🧩 I care about clear structure and long-term maintainability.
+- 🏥 I am interested in healthcare information systems.
+- ✨ I prefer simple pages that still feel complete.
 
 ## Tech Stack
 
-- Languages: JavaScript, TypeScript, Python, HTML, CSS
-- Frontend: React
-- Runtime: Node.js
-- Style: practical, minimal, maintainable
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,python,html,css,react,nodejs&perline=7" alt="Tech stack" />
+</p>
 
 ## Currently
 
 - Building small tools and system-oriented projects
-- Keeping the public profile clean and readable
-- Removing unnecessary clutter from the homepage
+- Keeping the profile clean and readable
+- Removing unnecessary clutter from the page
 
-## GitHub
+## Find Me
 
-- Profile: https://github.com/Tuskiand
+- GitHub: [Tuskiand](https://github.com/Tuskiand)
 
-<p align="center">Updated on 2026-07-28</p>
+<p align="center">Minimal, useful, maintainable.</p>
