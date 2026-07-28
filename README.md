@@ -12,14 +12,19 @@
 ## Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,python,html,css,react,nodejs&perline=7" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,html,css,react,nodejs,git&perline=8" alt="Tech stack" />
 </p>
 
 ## Currently
 
 - Building small tools and system-oriented projects
 - Keeping the profile clean and readable
-- Removing unnecessary clutter from the page
+- Letting the contribution graph speak for itself
+
+## Contribution Graph
+
+![snake light](https://raw.githubusercontent.com/Tuskiand/Tuskiand/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![snake dark](https://raw.githubusercontent.com/Tuskiand/Tuskiand/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 ## Find Me
 
