@@ -1,0 +1,10 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="360" rx="24" fill="#0B1220"/>
+  <circle cx="1040" cy="80" r="110" fill="#1D4ED8" fill-opacity="0.16"/>
+  <circle cx="980" cy="250" r="170" fill="#22C55E" fill-opacity="0.08"/>
+  <path d="M108 222C188 145 275 124 384 136C463 145 540 182 612 184C710 187 776 138 860 100C953 58 1048 54 1118 76" stroke="#60A5FA" stroke-width="4" stroke-linecap="round" stroke-opacity="0.45"/>
+  <path d="M108 252C186 204 272 194 375 207C452 217 540 260 625 262C713 264 786 214 871 173C953 133 1031 124 1118 141" stroke="#A78BFA" stroke-width="4" stroke-linecap="round" stroke-opacity="0.25"/>
+  <text x="108" y="152" fill="#E5E7EB" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="58" font-weight="700">Tuskiand</text>
+  <text x="108" y="198" fill="#94A3B8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="24">Builds practical tools, systems, and clean interfaces.</text>
+  <text x="108" y="244" fill="#CBD5E1" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18">Minimal. Useful. Maintainable.</text>
+</svg>
